@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16672857,
+            "classId": 35124,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:37:18.422Z",
+            "updatedAt": "2023-08-18T15:37:18.422Z",
+            "tags": [],
+            "classTitle": "Blue_stain",
+            "bitmap": {
+                "data": "eJwBRgO5/IlQTkcNChoKAAAADUlIRFIAAACnAAAC9gEDAAAAHpUU1AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAALuSURBVHic7dtJdusgFARQ5XiQoZagpXhpZmkshSUwZMBBSdxISBS2KhUl/H/E8A7gvUcnuem6r3byXdHGqaUZT7OOYdI+03HSIVf30EuusRws6+Jtqfam70v1IISp42Gp90TOSx1NGdg03FodCPdRirVGqAmkNt5yLtVAtVAdVE9ogBqhptVquDesBqotJrOuDqqHGgiNxdL5aonQsVhmT9QUi6+utlh8NwX4WR5VvaxB1kjpRdYz0HToroqrHuFuqWkvakAnAaVeVierJdQQWjvlgFbPyaHUCDWU13FVPVR36LXZ/XTYqgauB1I3PxP8+pMC0EToyCizY2snQQ/UUToA9RU9b9YA72PuSQH1oN/+jLZwm7ahl11UnyFdg6y13YK1B8rtWOapAryTfcbAaPleeOhzDbLGBjT9J4ouF1Ive2hsQIOsXlYnq5VVj0Gvgz4XLayovXbLobf263N8LrX6Qj9sVV/Tfqs6WS2hzOtt+U1FVZOszGgV1V/omUpi1WdTV2b1HcprC3Osr1R9t8g7ljkfIqGBUE+og2obUBzZoT+lLcyxkbVTNcl6/ZlB8QEP1lDX4gMeT6gj1B76B2oa0E7VJGukdb1bAqHXzVLsWKyOUEuogdrBeKEmqPdfWK1qFg5tRn0D6mS1shpZb7jeAVDTU+0XGgkNsjKj7aW4Dof+lP7NHC/XepDVw9EYdbJaQg2h3XZNhEaogVC/kzIx7KW4Oodu0uG1tjDHXlYnq5XVENpt10Qo029bOsh6JvTyTU0NaCS0hXj1qh/6TFuYY2ZNHit1raOqb/+GpgY0ytpCFi3M5gs9yfpOaC/rot9E6LfiPXSzMnOxl0ZZg6xeVkeoJdQQ2m3X+ZLOz4f4QvPTaP6Xe35v+lkvoAw1PYMyLN5FzKw9SC1PLvtXfpZGzHROI0siS8PnOoVmc51CM7lOoeU4BREX+ghiEcJUH7fUAQz2yDkt8d7xqtt7Hnat76CD7loKX+pplcIHXpgbbKlWmbsAAAAASUVORK5CYIJzIow5",
+                "origin": [
+                    155,
+                    51
+                ]
+            }
+        },
+        {
+            "id": 16672856,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:37:18.422Z",
+            "updatedAt": "2023-08-18T15:37:18.422Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "bitmap": {
+                "data": "eJwBeQGG/olQTkcNChoKAAAADUlIRFIAAACiAAAAXAEDAAAA16T8MQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEhSURBVHic3dVBEoMgDAXQdFy45AgexaPB0TiKR2DpwiEtIgLJZ6bOdNXs+pSQMDUQdbEy6ZiYg9aFOWq1zOwkvj7Im9Q56Q7S1sSv/NxGPqO+4q7lXLfjs8q1qC+l83E+y5H7MGey6db96j0tM0JZRLwb6qJspnVW6kqbXXhqqr9jgxquk9aqMLWhy02qy01HhVU3kQ4Cq9HKI12+VgeO4alaoP4HCvCv1f1ALVD0p36kEX0sAz1GumjdR2q0hpGCr2WD6uFX6KDCYcRocOXJZaXuhCZMgLoRmlweTrl7/LZx1OtAbqYKzgNcFFEuBqPrEts1d1OjzXXT9OGrltriVWufI1Afq1zeFCcwF3dIJZQ2J5Zpc2KFqWR1i1LqzzW/3hWXkoeUvXGzAAAAAElFTkSuQmCCFseuPg==",
+                "origin": [
+                    1641,
+                    679
+                ]
+            }
+        },
+        {
+            "id": 16672855,
+            "classId": 35124,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:37:18.422Z",
+            "updatedAt": "2023-08-18T15:37:18.422Z",
+            "tags": [],
+            "classTitle": "Blue_stain",
+            "points": {
+                "exterior": [
+                    [
+                        154,
+                        51
+                    ],
+                    [
+                        322,
+                        808
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16672854,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:37:18.421Z",
+            "updatedAt": "2023-08-18T15:37:18.421Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "points": {
+                "exterior": [
+                    [
+                        1640,
+                        679
+                    ],
+                    [
+                        1803,
+                        771
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16710369,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:37:29.962Z",
+            "updatedAt": "2023-08-18T16:37:29.962Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJOQKzOyAwkGxfzgDhsAT4hrkD6////S2/OvwtkMZYE+QUzODy7kQbkZHq6OIZUzNl7brdggwEPc8BzjSAjJ7fELSkmboksp0RipvQfmdhkbRWz99Ck3DSxrkKZggDtgkBphlWMu69tebF7E1NXy7oid8k+Z0/VxccC16YtPBc575SW3NV+ptC0jxH235dpLOXnfHswPpTxJz83Y/A05f1ASxk8Xf1c1jklNAEATXhCyA==",
+                "origin": [
+                    744,
+                    985
+                ]
+            }
+        },
+        {
+            "id": 16710368,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:37:29.961Z",
+            "updatedAt": "2023-08-18T16:37:29.961Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKaQCzOyAwk19z7kgGk2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyPHxdHEMqZhTem4jL4Mij/NF/1JVZQOuxQczzMVcW/pVZC+ZVnolnm64Kl6xpHTFJMeJWx5PXKBqK3luzwX9mJ41ZTqRcbLKtziPsu0XuX+YfVdi1DQ7ZxNOoLkMnq5+LuucEpoAojE2nw==",
+                "origin": [
+                    153,
+                    946
+                ]
+            }
+        },
+        {
+            "id": 16710367,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:37:29.961Z",
+            "updatedAt": "2023-08-18T16:37:29.961Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "points": {
+                "exterior": [
+                    [
+                        153,
+                        945
+                    ],
+                    [
+                        194,
+                        968
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16710366,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:37:29.961Z",
+            "updatedAt": "2023-08-18T16:37:29.961Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        743,
+                        984
+                    ],
+                    [
+                        810,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

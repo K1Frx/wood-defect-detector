@@ -1,0 +1,136 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16694408,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:04:27.029Z",
+            "updatedAt": "2023-08-18T16:04:27.029Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "bitmap": {
+                "data": "eJwBNQLK/YlQTkcNChoKAAAADUlIRFIAAADwAAAAjgEDAAAANbMXYAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAHdSURBVHiczdfBjcMgEAVQR3vI0SVQCqVBJ9sKpXg74OiDxaxtzBiWme9IVpTlmBeYPxA5eBia8aB5AMMSBV0fRGj6c+WkV1jXXldXK7iNf7QKW+k8Ei1yaR5Tx2PN/XRTM/0tPNuG29VbW0eUU4vFnx0TXJvIV+x6Dqh0k00oXWcbBU7ahnXRheB1dEnPbZWCV9G/RObfjNRXxWJwblwuzY2PMpfGrcIerV1YbovKkWqlD9ZKH7vqNI76eTCrwTPLG76NGQbPbFReXmCL2amcYNs7622/wupxZh51JtjXzg4zUILBN9aPc+cRs7nFFrPDjJRw25cMjnM7UMiE95Twnt5lc4vtO9n9V074t/RJXt7J8y2O7+QJc8AHesH+FuMHU8KPtQXzfMkGcMQ84ce5v/ybApzgzWD/ewYPzYg54P9fD3l54cqjn6iH160ZXTL5DqvxhG+ZAV1w+XqtNX6w1ni5HztR+eZvRebbtRw9FpaPdCosRw8DLM4qbuuCuXrTPKN/C6WrXT+/eOoZPXGPzVss80OYfO56eT7HRrnx+fji1HJJNB09+pZLopCbSK1ydJ+/2L0cW87r+tKl+DbL9KXL6jHHEN7bDfdj+slH9v5jHlLgdvUucDNdnPwLhIe7rGnZqCwAAAAASUVORK5CYIK7OhEN",
+                "origin": [
+                    2195,
+                    159
+                ]
+            }
+        },
+        {
+            "id": 16694407,
+            "classId": 35120,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:04:27.028Z",
+            "updatedAt": "2023-08-18T16:04:27.028Z",
+            "tags": [],
+            "classTitle": "Crack",
+            "bitmap": {
+                "data": "eJwBVQKq/YlQTkcNChoKAAAADUlIRFIAAABNAAADKgEDAAAA/d5ejAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAH9SURBVHic7dlLkoMgEAZgLBcuOQJH4WhwNI7iEVy6sGR0fDRKm19q1GEyyeorInQ3EguJ8N53Yvrkxx7RZ0+T1g1WfPesD/m2Z5nJKnlwnRlE/eGeimaSp6R7EbCidVZ638wsvK9nCrpgCLd0G25GTxd46uZtxGFc715xyGEJdylhYD7foKBxzS2teu02ttYxPc0fyzFEmzthFQfFm821LcuOovHs86F4NMQBzQkePCgtokunRlQUQlGrfJw1YvMYK8TyHdkidix7lh7SfrNAFBkQJlmm0iHWySxO8UchzuXgXuQgeBqiJiqWEhFuMSQ7rmZpEGFtqWwoBM+WkoyprqS8ZLCOZU8heM7Piupq9ogdyxaR78Y/HeMHZcFy/35lJ+pDuokKUSawohDVttVRGXXEYtva5M6CTT2goIoh4WC5VLG0GnoV0LT/V0RNr588TdoW+PTGWG9pI6r/TEmzwzOHJFPylYcjOMT6JCXiA6cYz5+vNBQiYLzT3x0x5HAG+eEzNPefXwchzP1/bRhEnUCFDmtTBnsP/vF5sIjuJBWiTGCw307p9j6ci4eTmnKHdrSI4jeo8vs5WUS35nvbG2fMkpIMCLvlssA/PDr95/escPsa7FmD1uCARrJUiPoSNhHVlnXE3exYKkisZS7PhyL4s3ftNYZbJKrh+y/HHhZJedYROAAAAABJRU5ErkJggj5sEP4=",
+                "origin": [
+                    1275,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 16694406,
+            "classId": 35118,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:04:27.028Z",
+            "updatedAt": "2023-08-18T16:04:27.028Z",
+            "tags": [],
+            "classTitle": "Knot_missing",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIpQJzEyAwk55Q+AUmwBfiEuALp////L705/y6QxVgS5BfM4PDsRhqQc8/TxTGkYs7RK3t5Wwx4WB8s0NaQVFycYmIUZbZD1MjJq6ujfIL97TnnWJ12lcxv+cxzyGzZHNa2cyw5SyRvePI5SFg1uJxv5OKuerh6VeoNtfgtZqxhbC5xYcrP1q01u+P3LPyag/oV5qw/ByTtOfd6PFwVmaF4dLWO5suirhUvP5e+5/ofHLaF27GkdmL40XzOrkfKXtu32iktP2HkGtqt9G26fPyH7Tbz+/Q3rmyaYbEy9kzas+Jol9z8mnunjRakKd0XTu0M2CPObH8tnH95xxmxGxEZOg1cf29MeB93zTxGSTL63X8GPrPPejueT/sG9CmDp6ufyzqnhCYAz+B9fw==",
+                "origin": [
+                    147,
+                    319
+                ]
+            }
+        },
+        {
+            "id": 16694405,
+            "classId": 35120,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:04:27.028Z",
+            "updatedAt": "2023-08-18T16:04:27.028Z",
+            "tags": [],
+            "classTitle": "Crack",
+            "points": {
+                "exterior": [
+                    [
+                        1274,
+                        0
+                    ],
+                    [
+                        1351,
+                        810
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16694404,
+            "classId": 35118,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:04:27.027Z",
+            "updatedAt": "2023-08-18T16:04:27.027Z",
+            "tags": [],
+            "classTitle": "Knot_missing",
+            "points": {
+                "exterior": [
+                    [
+                        147,
+                        318
+                    ],
+                    [
+                        246,
+                        417
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16694403,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:04:27.027Z",
+            "updatedAt": "2023-08-18T16:04:27.027Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "points": {
+                "exterior": [
+                    [
+                        2195,
+                        158
+                    ],
+                    [
+                        2435,
+                        300
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

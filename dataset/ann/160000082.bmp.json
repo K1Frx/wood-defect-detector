@@ -1,0 +1,184 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16639609,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:32:59.500Z",
+            "updatedAt": "2023-08-18T14:32:59.500Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLXgdiAkRlI7vhUewZIsQX4hLgC6f///y+9Of8ukMVYEuQXzODw7EYakDPN08UxpGLO3Ut7BRsUeFgfHI8M2NXYd8grr2GxZZdywLIHfxgD/RVFNHXOyF4tZ7mnGnGzaIPS4lWSEys3fhXNjoxe0HqNw5eTN372352SnYFH0z54WzTFOvEXyJc2ztA9Erj0fsCmS1J9J7kWx/tpmexd99TwxaI/B19uKw/mL3gh9+VNV/hGWeFJXSfbztwSWNUffHr17f62XcHJzI1tOk237LazAV3I4Onq57LOKaEJAFeaYHk=",
+                "origin": [
+                    417,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 16639608,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:32:59.500Z",
+            "updatedAt": "2023-08-18T14:32:59.500Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJOQGzJyAwkd9TnrwRSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5LR7ujiGVMzZe3Ejb4MBD4uDu8gUycZAoyiJ3kCJxklKh478my60xCPg4SuuT2bbOs5Eea/ZlLk2YL2visPuEyyyf+K+vhFdeCm7cV0c56WNRlv3daxg/rd6/eet9lKZjHLVnReS6xfbbtfecnpLdiHL7oQkY7OdPhMP8tj4Cj+W2LxTaP6vyUysXz65+O9m/JzfERj04rgo0EkMnq5+LuucEpoAp3hWzQ==",
+                "origin": [
+                    781,
+                    417
+                ]
+            }
+        },
+        {
+            "id": 16639607,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:32:59.499Z",
+            "updatedAt": "2023-08-18T14:32:59.499Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1084,
+                    627
+                ]
+            }
+        },
+        {
+            "id": 16639606,
+            "classId": 35125,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:32:59.499Z",
+            "updatedAt": "2023-08-18T14:32:59.499Z",
+            "tags": [],
+            "classTitle": "overgrown",
+            "points": {
+                "exterior": [
+                    [
+                        1136,
+                        826
+                    ],
+                    [
+                        1138,
+                        828
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16639605,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:32:59.499Z",
+            "updatedAt": "2023-08-18T14:32:59.499Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "points": {
+                "exterior": [
+                    [
+                        1084,
+                        627
+                    ],
+                    [
+                        1594,
+                        977
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16639604,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:32:59.498Z",
+            "updatedAt": "2023-08-18T14:32:59.498Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        1397,
+                        874
+                    ],
+                    [
+                        1398,
+                        874
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16639603,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:32:59.498Z",
+            "updatedAt": "2023-08-18T14:32:59.498Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        781,
+                        417
+                    ],
+                    [
+                        847,
+                        474
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16639602,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:32:59.497Z",
+            "updatedAt": "2023-08-18T14:32:59.497Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        417,
+                        0
+                    ],
+                    [
+                        631,
+                        48
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

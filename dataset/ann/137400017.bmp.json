@@ -1,0 +1,178 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16650891,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:55:02.920Z",
+            "updatedAt": "2023-08-18T14:55:02.920Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLuQKzByAwkp90pvQyk2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyKnwdHEMqZizdaIhX4OCAMv1iIhPLPMPXTb5mFxW1yzv4ekYYy5YHC5grR9pdJTxOANPjKHQqgM9Mz1FIjdu6PDge8K6deJsJtPJ7ZuSLlVp7d5mN7XkQPDNwJwQGd3erOlSLx79f1HddO/MN6XFFzQspdNOrJnpmX69Z//+AuYL77Q88ifmHwO6gcHT1c9lnVNCEwCYcE44",
+                "origin": [
+                    560,
+                    5
+                ]
+            }
+        },
+        {
+            "id": 16650890,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:55:02.920Z",
+            "updatedAt": "2023-08-18T14:55:02.920Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIgbMjIDCSLm3J0gBRbgE+IK5D+////0pvz7wJZjCVBfsEMDs9upAE5vZ4ujiEVc9ZeMuRrUOBhvSDF7t53INBmlkzv4goWN7ZD4V4LM0wKN1yWvtX2xbnkGleC+rqXKkKXG7r3hv6+psjcbZFhvUgnp7vlhFWUjbnzdZHZee7fjmZv31/xO+FP0veDX978eWRiMWmfJc899mpb4zz17bfi5noK817tnrR5wh9LZXU1jz9fJy/Ju+x+2iHbnsHToGdpx+/7WkCHMXi6+rmsc0poAgDRtlj/",
+                "origin": [
+                    2000,
+                    290
+                ]
+            }
+        },
+        {
+            "id": 16650889,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:55:02.917Z",
+            "updatedAt": "2023-08-18T14:55:02.917Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJRQKzKyAwkfwjlhAIptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcmo9XRxDKub0TtjIe0CBhyXey/EkR88hrZstPcc0eiZMYjpaqHCQjyto36edH/bLJwSG7nGbwRb5TefmZrMDmRyySmKzGi8mLH+w7MFyBUYLvr+Mexz5ZJg7/C/GF1tPqrr+VGXF9scXEu3Dl7wUCnq791faA+Ya458Mx+teM09TMHoq52f/xIk9WTziPdAhDJ6ufi7rnBKaAIitT80=",
+                "origin": [
+                    421,
+                    916
+                ]
+            }
+        },
+        {
+            "id": 16650888,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:55:02.916Z",
+            "updatedAt": "2023-08-18T14:55:02.916Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKeQKzEyAwkNfvS2IAUW4BPiCuQ/v///9Kb8+8CWYwlQX7BDA7PbqQBOUWeLo4hFXNKLxzkPaDAwRogxS8nezDwzpqyLX2POGyrDKIWMqn69na+b4hnabj2T+b2glKfqlShXYo8p5acOSTaWuJ1vsW82Uiv1LluoWTa0x+b/k1cH9s2J5pnZ/vlmhnR7DM9rj80lUmRMw3WcZviwRhhYz7t3gG53/vXbnEHOYXB09XPZZ1TQhMAQtZJrA==",
+                "origin": [
+                    1111,
+                    142
+                ]
+            }
+        },
+        {
+            "id": 16650887,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:55:02.916Z",
+            "updatedAt": "2023-08-18T14:55:02.916Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "points": {
+                "exterior": [
+                    [
+                        1111,
+                        142
+                    ],
+                    [
+                        1183,
+                        176
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16650886,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:55:02.916Z",
+            "updatedAt": "2023-08-18T14:55:02.916Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        420,
+                        915
+                    ],
+                    [
+                        511,
+                        952
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16650885,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:55:02.915Z",
+            "updatedAt": "2023-08-18T14:55:02.915Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        2000,
+                        289
+                    ],
+                    [
+                        2081,
+                        339
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16650884,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:55:02.915Z",
+            "updatedAt": "2023-08-18T14:55:02.915Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        560,
+                        5
+                    ],
+                    [
+                        630,
+                        44
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

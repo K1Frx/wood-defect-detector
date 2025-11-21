@@ -1,0 +1,136 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16670420,
+            "classId": 35121,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:32:10.950Z",
+            "updatedAt": "2023-08-18T15:32:10.950Z",
+            "tags": [],
+            "classTitle": "Quartzity",
+            "bitmap": {
+                "data": "eJwBMgHN/olQTkcNChoKAAAADUlIRFIAAABPAAAArwEDAAAAhr4RRwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADaSURBVHic3dVNCsQgDAXglC5m6RE8ikfTo/UoPYJLF9KMP0mNTDu0ZWBKXX2L8IKIPACAAWegYxCZiDhVvRJDpU5c1lEezqrDQ2GJGwsDByDGTFW4cBZFmEqXaHFNqyppRM8bSvD4ycjLyg5BRcSOeoNO0jAnSXuYsyQ+jZbpJfEww6Npr9H8i/o74w7VJvnrpb93M47XONyWcJH2lzTEeI6aGDoqot8jP+fckV9rai3hOvLtYe2ZpbVPbJ0UWlP51l+i1UTXOeA00YuxUnFAHXbUrJZHc1yOegPYrsPX8+G9QQAAAABJRU5ErkJggrN6gmU=",
+                "origin": [
+                    1465,
+                    252
+                ]
+            }
+        },
+        {
+            "id": 16670419,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:32:10.949Z",
+            "updatedAt": "2023-08-18T15:32:10.949Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJGIMzIDCRVPkp9AlJsAT4hrkD6////S2/OvwtkMZYE+QUzODy7kQbklHi6OIZUzFk7cTdvg4GAc7OGhjHTYoMoI6nFBkyqrIeO8LFpCi1SPKtddL9csWUHu22CWlWCqvKCfk6GmVybD4ncmNh9aKrBhNmXpmT0Pfk44WnEBZ+kuqUBUv+Orq97W/P2z9u6e7fl3hydl5cvvOp4ReXW9Or15RaMzKE/Kx22XTAA2s/g6ernss4poQkAqb5MGQ==",
+                "origin": [
+                    1396,
+                    66
+                ]
+            }
+        },
+        {
+            "id": 16670418,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:32:10.949Z",
+            "updatedAt": "2023-08-18T15:32:10.949Z",
+            "tags": [],
+            "classTitle": "resin",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLqQJzGyAwkizKl9gMptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcqZ5ujiGVMyZe2kv7xEFHtYE5a4pPQ8CJXQldRensHh1Cb/vWessMGWOUJc/R8vPapeaCSY1LPwd3BsEWRPUkxyWKU+oW+cgx/rqUfm5q4v6ul3L23eWvist+1CxIPQFr1XeqbtPJ6V/Xrpwsvrj+MsK/t++vvdPqop9Gm0/+XJ72XJ3ff+c+Espf7WMM3TEeLuuX7DgFVi7lE1b5RfTtlPFV5w+W9kCXcjg6ernss4poQkAi9FbOg==",
+                "origin": [
+                    323,
+                    442
+                ]
+            }
+        },
+        {
+            "id": 16670417,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:32:10.948Z",
+            "updatedAt": "2023-08-18T15:32:10.948Z",
+            "tags": [],
+            "classTitle": "resin",
+            "points": {
+                "exterior": [
+                    [
+                        322,
+                        442
+                    ],
+                    [
+                        362,
+                        544
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16670416,
+            "classId": 35121,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:32:10.947Z",
+            "updatedAt": "2023-08-18T15:32:10.947Z",
+            "tags": [],
+            "classTitle": "Quartzity",
+            "points": {
+                "exterior": [
+                    [
+                        1464,
+                        252
+                    ],
+                    [
+                        1544,
+                        426
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16670415,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:32:10.947Z",
+            "updatedAt": "2023-08-18T15:32:10.947Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "points": {
+                "exterior": [
+                    [
+                        1395,
+                        65
+                    ],
+                    [
+                        1446,
+                        115
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

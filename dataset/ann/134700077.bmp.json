@@ -1,0 +1,52 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16650963,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:55:02.931Z",
+            "updatedAt": "2023-08-18T14:55:02.931Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJwBpQFa/olQTkcNChoKAAAADUlIRFIAAAD4AAAATQEDAAAAsRg7jgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFNSURBVHic7ZZBboQwDEWDZsGSI+QoOVrY9VpIvUiOQDWbVIrya8gACYnjSlXVTb+Y1WMc+wO2lUoao1LaqwGzasrCDcCs4ZuYmB8BZxFrSHGJRQ18gmI8UP13nggY7FoM1oJvcTVOOSCU4elsc/En/XSeJbFgcVNWJrF4x3AXr9gmb487hibHacSD4UcKI8dfB0wcj1PoctKS7GG1JntYhWQPq8jZc4i3J2nm7dm18Pbsct3ytwJ1l3uRmy4PIrddHn+ddzE9oH/e5/ZPeRTeL5nrH/EgfF8S98L3K/FV6A9O7B9S/5H6l9j/TIeHb/TfiQ2e+jdrUEj9ny3wmIG2c3hvAJ0j0LT5OUJ1O/1zgE4N+p5N2FYC+YBvPOJiA2g4sOS8dmAucFXAfYcZ8JbRa/QXKdBu43de0z0F2o2cwUd1+MuDuF20GulywfoCKKmVHkVtE3oAAAAASUVORK5CYIKuxr2T",
+                "origin": [
+                    530,
+                    409
+                ]
+            }
+        },
+        {
+            "id": 16650962,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:55:02.930Z",
+            "updatedAt": "2023-08-18T14:55:02.930Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        530,
+                        408
+                    ],
+                    [
+                        777,
+                        485
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16676116,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:45:09.561Z",
+            "updatedAt": "2023-08-18T15:45:09.561Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLbgViBkRlIZh2uVgdSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5DR6ujiGVMzZesGRq0FBoDVxsevpvgeBVrPkzuZdEsx57lSzknOhbfOCf0/ZjYy5Cs0OcE1jWaF9QEBO8LNTXq/+yY1KV2wenLoavL7E8QrPHOe0N6bTFbnzXm6qjK4reG6TmCJXPnfG7772LWre282n8kT/P2heFnam7M7eEv/9z6359+9+VMcQ/sv9sBbznHtAxzB4uvq5rHNKaAIAbQ1UJA==",
+                "origin": [
+                    922,
+                    992
+                ]
+            }
+        },
+        {
+            "id": 16676115,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:45:09.560Z",
+            "updatedAt": "2023-08-18T15:45:09.560Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        922,
+                        992
+                    ],
+                    [
+                        1105,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

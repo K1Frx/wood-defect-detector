@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16711219,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:39:16.962Z",
+            "updatedAt": "2023-08-18T16:39:16.962Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "bitmap": {
+                "data": "eJwBOwHE/olQTkcNChoKAAAADUlIRFIAAACJAAAASAEDAAAA+F5EmwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADjSURBVHictZTBDcMgDEWJesiRERiF0choGYURcuSA+E1xZIxJ1KhK//EJwTOybYwxrpgJ0YhMQHQoElkgA1gF8qjZTDtJBHk/fVz4OhDCjgnNEOHbW+gNJ1GSD1LozSARFuFwJFI5MpvUavfPPcojKtqU/DValDxqSRpFVQ+J3UBJV32K8i1U9HfdRXgSLf9G4UHkf0NjA5wj+x2VoTEvkGryTwNMI9Ifloaxqsj3aNMjSki5xnGI1nH6Tsb2at4traEmz8sqsCmvNM9aHMdanLk5iP2Hfv3Rl6QeWfQLkcqoVm/ccu9/0Xlo2gAAAABJRU5ErkJggm8QhQ0=",
+                "origin": [
+                    446,
+                    418
+                ]
+            }
+        },
+        {
+            "id": 16711218,
+            "classId": 35118,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:39:16.962Z",
+            "updatedAt": "2023-08-18T16:39:16.962Z",
+            "tags": [],
+            "classTitle": "Knot_missing",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIxQOzAyAwk15o2/QZSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5Cz0dHEMqZgz95IhX7MBT2uicluPpVPfoYuHLhaJ5MdKWn9k2Fr4b6GH6LwfTErT/p7Zt/Tsok0mAarvz09eUu5utbFcJElRSzFBSuO3jEV/fOMa/7d/tzMyGk/s8IFIKKUp3VW6v+hO0k/+r4xfpKuavgoeK7lyI+axgNTyGxaVz/3m3C46XJ4XsVF60gbJLb0hbhu8919R8tHeJPNy7z3XP+uX3eELshJbssnG3BLoWAZPVz+XdU4JTQB0RmLc",
+                "origin": [
+                    2534,
+                    261
+                ]
+            }
+        },
+        {
+            "id": 16711217,
+            "classId": 35118,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:39:16.961Z",
+            "updatedAt": "2023-08-18T16:39:16.961Z",
+            "tags": [],
+            "classTitle": "Knot_missing",
+            "points": {
+                "exterior": [
+                    [
+                        2534,
+                        261
+                    ],
+                    [
+                        2625,
+                        325
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16711216,
+            "classId": 35117,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T16:39:16.960Z",
+            "updatedAt": "2023-08-18T16:39:16.960Z",
+            "tags": [],
+            "classTitle": "Death_know",
+            "points": {
+                "exterior": [
+                    [
+                        446,
+                        417
+                    ],
+                    [
+                        582,
+                        490
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16634349,
+            "classId": 35121,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:21:31.427Z",
+            "updatedAt": "2023-08-18T14:21:31.427Z",
+            "tags": [],
+            "classTitle": "Quartzity",
+            "bitmap": {
+                "data": "eJwBQAO//IlQTkcNChoKAAAADUlIRFIAAAB5AAAEAAEDAAAA/1ZkEAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAALoSURBVHic7dtBkqsgEAZgp2bxln0Ej8LR4GgehSO4dGHFV5qq5093T2gd8mIC2fFVotA0EAnpus4t/15jt778DtMGe3mZ1/IXh2+A2wp/HsGyAnHoEYIGDmHQwCNEDbC8NZfDVwKTAt8JzBZIWr8G5ARQAksZ6FMInw2UQpkQlujbEymVz9N8rhvGi0PIj7mQBTaf3GeHhzCzGWd7RwlIY9rgKUEWXWkADzDZwAGMxyHyiwoYeE0FBN58GyTdMJggmT+iCQhhLAQ9wtSAEEoF+URntwx6VyCEK2VQS5iagRCulJZ5OLEiJ6t6p4Lfyzcd3A6zDv0O98ds2mHUAQISN4DmDhtAY7amYN07I4hriLuIeuSrLlrrdvghQH6HH4K8wEuF9n2sZiCEUkGuZtpaBAQ2kO9ArOoS8CNRBbzLaAOouvUhEcrGR9G27/AfoLJ9hx5AHw3EPyIAp5hJBYyy2KOf+Ufym/Y3Xg99F18ANk7f1hfgEIZC4BFiA4dQKsg9gq2zCcGWUsn6GrIwdIcX3GiC5BqjCZKKTYWAEOYGTwnyic4+kVKPd5h18ABBheMXbaPhY+AqoyEBkTCR30XAoAE9hKBBfxwcv0sJ8AixgUMoFeQewdbZhNCZ4OH3ZB3wtrMK2BbxqKE/e3j+jjxgU9oj8WXgKUFOQHTlzOshQEz8+bVi1ICeAT2vR+VACKWCfGLv8wVrOJ9OFz5ZGsHzu5QALG+trRw8QqkgOwRbZ/dQFiu0EU7cNt+WE4DlS3X2i8AjvCjHQnf42+hadToGsWs/Pl4ECKFUkH+7ALd0qD0dTvwW3Q5AvCsQwnsl3QUOQMxGyF80W7F2TqlmIIS6hqmAgQ0gCZENwnaCqHpoJ4gYEMCgAg7+YIP8RfMVyzdOgAdow/SdoZ5hOvHkFzDzASTglUfwBDiEoRB4hPjp4BCeEsKgwZKD9I/jfIjlR7aY6W4sb+UxFNu5FEIYC0HP7/LRQAhaPP4CmypgveI5Rt8AAAAASUVORK5CYIJ74238",
+                "origin": [
+                    715,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 16634348,
+            "classId": 35121,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:21:31.427Z",
+            "updatedAt": "2023-08-18T14:21:31.427Z",
+            "tags": [],
+            "classTitle": "Quartzity",
+            "points": {
+                "exterior": [
+                    [
+                        714,
+                        0
+                    ],
+                    [
+                        835,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

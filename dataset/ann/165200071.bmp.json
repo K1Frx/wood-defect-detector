@@ -1,0 +1,136 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16675723,
+            "classId": 35123,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:43:26.763Z",
+            "updatedAt": "2023-08-18T15:43:26.763Z",
+            "tags": [],
+            "classTitle": "Marrow",
+            "bitmap": {
+                "data": "eJwBIgPd/IlQTkcNChoKAAAADUlIRFIAAACSAAADIQEDAAAAOQN6iwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAALKSURBVHic7dpLkoMgEAZgLRdZcgSOwtHwaBzFI7DMwpKZSVRa00Lz8JXB5VdJgOaHaEJV2as2z2p9cWPatRlj9IqaX+tXxn7NrEz8mfr4uPUH1i9b9qZ52bKRx8uGdY//rkWvxduUz+Tbuo/uLTtYjwY72IzWe+wx2uAxNprxGJ+sdZuYTIWbnKzLYxPBojrtSbSeaAPRTIq1wSadpg41cxtrM1vlNOmygWjUnFJzrw+1OsGazPY41LqT2g233HUOn/Mu2BqnKWS8bmOztUSbyX6FYjYQDSxpUSy7ycmo2274V7yNqc0L1Wx0bSZzm429XTPFzqszs6ZDjVt7ukxY63OYtDbsZQZcxaxJS7vVXljLnZcn0TRSA5eB7XReWykGlvTcRm4D28Fcg2KlVqm1OsuuVJezjHlMBxqPsC7QhMfUxY06Dqql1J5q1LyEWq6cTob1GTNBNJlgJt7qBINb3XRPk9vgFE33YcXodsQclbx8qWE1dRiLsTEbPMZ0mIkvNplgJsa6IKujTCVY+1W2rGm1i11pvHe0I+ZosX6HneyAcVxp3u5op2XtgHavVOc72qX2oQP6cqXa39H8Nd22hmjUxw/mM8djBfeZ47FC+Exvm4TWEU0RDZsiVSzJsJq+DVseDdEWccZiPxrz2Rh7HmNj7EWMjbGXPtPbthhaR7T0KSr2BXcHmPXbVvuM+kMkZnrbHsh7cxtDxlaMbkfMUVReMOuQcTiMQ1PbJnzWbpuEVtEs95Ie9jHqDWsx3I6YI2peUJPAQv9HFcB0oHFgncMYMOUwuEe0yOswqz7bxY6uOY+zSeR1mIFmXcfyFvPbhtkifyrMsC2Wagya3sc4tJT/wP6pMWg7zVFKhlKym7JmYo7QYmt6MthG7zA4jhzHFRnSBmYc6TPVBDCTwSS0dh+DdKkfVU42CW2n2gtoVbpxQKHZZcAc6+MHm7284v2AMRgAAAAASUVORK5CYIJwFocR",
+                "origin": [
+                    1519,
+                    223
+                ]
+            }
+        },
+        {
+            "id": 16675722,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:43:26.763Z",
+            "updatedAt": "2023-08-18T15:43:26.763Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "bitmap": {
+                "data": "eJwBLgHR/olQTkcNChoKAAAADUlIRFIAAACPAAAAOAEDAAAA/mI5HQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADWSURBVHicnZO9DcUgDIQdpXglIzAKoyWjZRRGoAsFwuHXweYVKNfxydhG3AGACpBk8ATSkQ8boiOSDhYUIgZCP0SfKpMI5YIbi/pVjaTYkHlRH3rgVIajrhm5ttagMKMyYOfI1eXlTcUR8uV7M4ku/p7WXyLPn5gVZ4R/0AmSpJETsjNyS8gvofAVxUV0fEVmCeklpCQK3SaevBeqme7877qjbDlm5FrPEuCzKXp4qiFd9hxFTDe0vUEs0y2MKu6+GCqrnRwZHFJJ2YwC7WUt2cxKpFOrB7bO1qkRhDsOAAAAAElFTkSuQmCCdtV7cA==",
+                "origin": [
+                    1368,
+                    736
+                ]
+            }
+        },
+        {
+            "id": 16675721,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:43:26.763Z",
+            "updatedAt": "2023-08-18T15:43:26.763Z",
+            "tags": [],
+            "classTitle": "resin",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJ2QFzMyAwkf51U3gqk2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyDnu6eIYUjFn72VHvhYFHtYLUuI6tk3uDzMqTPoOCUbsUihbMP+US8IkT7XHTnFMulefCAtaqlWGPVO4MXPyAcPT9yaFf7Nocl6mkJbDqt4VkMa9Lkr366ZPjWZLL/aKcvCydTDnHLA8wLek/kFlZr+F+w8W63bmPwwRn9/Pbapji6mq7cw8XO10X7Gko3gO77vGKwnPb1jnyPYkvd3wYqmth7vsgav8OQcc/vFKvFjhmNx7b2mij9T5SY6rei8GHsq5yPZVqniJtbzTvc9xdXsZ2PY/v9prx6oC9BKDp6ufyzqnhCYAT0JywA==",
+                "origin": [
+                    350,
+                    830
+                ]
+            }
+        },
+        {
+            "id": 16675720,
+            "classId": 35123,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:43:26.763Z",
+            "updatedAt": "2023-08-18T15:43:26.763Z",
+            "tags": [],
+            "classTitle": "Marrow",
+            "points": {
+                "exterior": [
+                    [
+                        1519,
+                        222
+                    ],
+                    [
+                        1665,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16675719,
+            "classId": 35122,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:43:26.763Z",
+            "updatedAt": "2023-08-18T15:43:26.763Z",
+            "tags": [],
+            "classTitle": "resin",
+            "points": {
+                "exterior": [
+                    [
+                        350,
+                        830
+                    ],
+                    [
+                        412,
+                        945
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16675718,
+            "classId": 35116,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:43:26.762Z",
+            "updatedAt": "2023-08-18T15:43:26.762Z",
+            "tags": [],
+            "classTitle": "Live_knot",
+            "points": {
+                "exterior": [
+                    [
+                        1367,
+                        736
+                    ],
+                    [
+                        1511,
+                        791
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

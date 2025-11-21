@@ -1,0 +1,52 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16660348,
+            "classId": 35121,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:16:14.245Z",
+            "updatedAt": "2023-08-18T15:16:14.245Z",
+            "tags": [],
+            "classTitle": "Quartzity",
+            "bitmap": {
+                "data": "eJwBCwP0/IlQTkcNChoKAAAADUlIRFIAAADCAAAEAAEDAAAAiUAU3gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAKzSURBVHic7dxBjtwgEAVQoiyy5AgchaPB0XwUH8FLLyx71N2RssgvLCo1VDnUbJ+YoZtfmBrRHcKPC/2cIRiQAOWwLgXJPlIykk1eEpKVKxHJwpVfSGpbfiIJbUHxPdmCYnXcSflbdnIMLRs5t5V8D2h5LwJ8r9cbieTcOJKA7DeSgRw3UoCcbAHwO28MwTtsFRdYJO8gjBJY2u9YWZYIZXN5sOiniiP6FTxqr5LdYQfs/kdb4Cvd2wJXYWsLzA4tr1DhKqFlaUtCUrmSyb/DkYJklRcEn1UQFVw+u3HBm8vhMpnoJ5Ejo2p72F6VkbB32ISEvfvLSkbizxJ/lrg8XfSTaPpZAmUl59YWvAq0LE3BzS4ttSmxU0JTUp+cDDnIh8w3SCHnZlkQfFbBZSYpCIxklJbcJxdXUqdUpsROWYxLgrK6TCYRio2M0tJ7RqLHtKX3zMcVfOrcmOLdrsv/KPpJHNHt0mNupCChGyC2ZCScQ99N4wjHsA+Ko6RAqS6TSYZiI6O0JAR0nbJasJdEKFVcRhwH6TGrcYlQNpfJRD+JI26F0WPaItuc9bZtssdBegz7cwWDRP9zHy4WRD+JWOi5yf53vdFkvCSLSW1KUhc8t8VlMklQbGSUlgglNGXU3GQlQ7GRHRevU/k6pUV2bqMkQ7GRKhevYI4E8pWKyqg7N/r9j/f1Lv8i+kl86Ldq0ILAyvtGin4SXSyIfhJ9P7Ag+kl0sSD6SZxH9FfbxYLoJ9HT6zJXeg18G+OoGSCwsgqk6OfahSf4hpe84BtrHDkGShSTfZBsLn4X9PKbzC5/RC478pI6ZWFK7pQ6SEJTCvnbXGaSDKWdHX1JCE4bc+NIgWIjIfMIBK7gxui12hzB7Y+8yDVTXIlQZFsm2WbqoDYkYTnV5XqmVJ7ERwqurKZ8Ae3UzV+2s0VHAAAAAElFTkSuQmCCJDxfrA==",
+                "origin": [
+                    1257,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 16660347,
+            "classId": 35121,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T15:16:14.244Z",
+            "updatedAt": "2023-08-18T15:16:14.244Z",
+            "tags": [],
+            "classTitle": "Quartzity",
+            "points": {
+                "exterior": [
+                    [
+                        1257,
+                        0
+                    ],
+                    [
+                        1450,
+                        1023
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

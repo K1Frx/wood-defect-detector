@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1024,
+        "width": 2800
+    },
+    "objects": [
+        {
+            "id": 16624901,
+            "classId": 35123,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:02:11.690Z",
+            "updatedAt": "2023-08-18T14:02:11.690Z",
+            "tags": [],
+            "classTitle": "Marrow",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJJQHyEkRlIxuml7QNSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5LzzdHEMqZjz9oo3X7OCAFuClLieJZP7w4wCk75HghGbDAK6DXhCKyVuz1iWc2Y6x+E/SikFhWdaJgimaC9SuK46TeU/V/LJVnNvhpzNcfev/W0Icl+2yPrtLt8y5UKgdJ3KT71vkSublqW9fONmqd38fvOstia5eDErpV1ruF+dVU/lLno7acfiy0E3+S+q1nVGbH4xMaVMZXdLn7amtmu+uVfjOdaf5q5qcQK7J2ZcC9ytkBMs3LJ2e9OG5WsV4rYqC6qUH2m2SdpdJuqqe8Dt7Dy2Lb4a65tYtMS52daw5l7pmMYj6xdYJ+l5wWXGs9evlyxtq7dhFG9av/63xH8loM8ZPF39XNY5JTQBAKsYgT8=",
+                "origin": [
+                    1305,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 16624900,
+            "classId": 35120,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:02:11.688Z",
+            "updatedAt": "2023-08-18T14:02:11.688Z",
+            "tags": [],
+            "classTitle": "Crack",
+            "bitmap": {
+                "data": "eJwBpQFa/olQTkcNChoKAAAADUlIRFIAAABDAAABAAEDAAAA0r9ZRgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFNSURBVHiczdZLsoMgEAVQKAYMWQJLcWmwNJbCEhw6sOwnv9slr00yMRVHpyxsLm2CKFWuZVXt0nR0GaIuR5SaPFFuWoj6I4FoayKifZI+dYxyvaAkWxSf1fsEx1huTy/JY9xzCpiNhjRUI29Y2npVCdreUSnX3ptHCzyWGy7ldhTZMaxqgQJEQ1qQgWq5GlRSzVkjN2VBaUSp4ZsQ70C8DVqhOMQNlTQ1+QMdELEilARltG+9E6+DW8+rdJjOQgYTa54u3Cljklt5yAmykIE0pDCbut7bpk7zG1nQQY8OOsiioLkWzCjI99aHFf4n0FclKCJzelavtzqH7j4n3jA/1W+m+qV8308wf34NNP2ycx3ICvSd/+C8hUha6N13lSRFKL1URgNvJe2P0k4pado9Z4WRtC5TTfJjlSVMP31ZnMgMTmkKZ7izYOxy5wN/UfJ+nZqcs9oAAAAASUVORK5CYIJRWa3w",
+                "origin": [
+                    1259,
+                    615
+                ]
+            }
+        },
+        {
+            "id": 16624899,
+            "classId": 35123,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:02:11.688Z",
+            "updatedAt": "2023-08-18T14:02:11.688Z",
+            "tags": [],
+            "classTitle": "Marrow",
+            "points": {
+                "exterior": [
+                    [
+                        1304,
+                        0
+                    ],
+                    [
+                        1402,
+                        195
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 16624898,
+            "classId": 35120,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-18T14:02:11.688Z",
+            "updatedAt": "2023-08-18T14:02:11.688Z",
+            "tags": [],
+            "classTitle": "Crack",
+            "points": {
+                "exterior": [
+                    [
+                        1259,
+                        615
+                    ],
+                    [
+                        1325,
+                        871
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
